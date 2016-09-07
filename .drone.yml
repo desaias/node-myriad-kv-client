@@ -1,5 +1,5 @@
 build:
-  image: library/node:5.6.0
+  image: library/node:6.5.0
   commands:
     - npm install
     - npm run lint
